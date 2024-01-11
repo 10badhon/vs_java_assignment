@@ -1,0 +1,81 @@
+1. hello
+**assignment 1
+2. Escape_sequence
+3. Data_type
+4. format_specifier
+5. input_demo
+**assignment 2
+6. Arithmetic_operator
+**assignment 3
+7. assignment_operator
+**assignment 4
+**temperature_converter program
+8.unary_operator
+9.relational_operator
+10.Conditional statement
+**assignment 5
+**even_odd program
+**assignment 6
+**vowel_consonant
+11.logical_operator
+**capital_small program
+**assignment 7
+**assignment 8
+12.switch(conditonal statement)
+**assignment 9
+13.ternary_operator
+14.bitwise_operator
+15.math_class
+16.for_loop
+17.while_loop
+18.dowhile_loop
+**assignment 10
+19.break_continue
+**assignment 11
+**assignment 12
+**series1 program
+**series2 program
+**factorial program
+**multiplication_table program
+**prime_number program
+**prime_number1 program
+**fibonacci series program
+**assignment 13
+**reverse_Number program
+**palindrome_number program
+**assignment 14
+**pattern1 program
+**pattern2 program
+**assignment 15
+20.array 
+**sum_avg program
+**max_min program
+21.for_each_loop
+**assignment 16
+22.two_dimensioal array (2-D)
+**matrix program
+**output program
+23.ascending_descending ( array )
+24.string{ method : 1.length();
+                    2.equals();
+                    3.equalsIgnoreCase();
+                    4.contains();
+                    5.isEmpty();   }
+
+25.string1{ method : 6.concat();
+                     7.toUpperCase();
+                     8.toLowerCase();
+                     9.startsWith();
+                     10.endsWith();
+           
+           String[] array
+        }
+26.string2{ method : 11.charAt();
+                     12.codePointAt();
+                     13.indexOf();
+                     14.lastIndexOf();
+                     15.trim();
+        }
+27.string3{ method : 16.replace();
+                     17.split();
+                     }
